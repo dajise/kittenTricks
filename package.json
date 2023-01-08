@@ -7,7 +7,7 @@
   "author": "akveo <contact@akveo.com>",
     "engines": {
     "node": "19.x"
-  }
+  },
   "homepage": "https://github.com/akveo/kittenTricks#readme",
   "repository": "git+https://github.com/akveo/kittenTricks.git",
   "bugs": {
